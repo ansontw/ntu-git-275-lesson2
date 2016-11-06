@@ -4,6 +4,6 @@ This is a commit on a new branch !
 Hello World in my favorite language:
 
 ```java
-System.out.print("Hello World 2");
+System.out.print("Hello World");
 ```
 
